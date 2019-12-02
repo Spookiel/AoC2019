@@ -139,6 +139,9 @@
       <find>4</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -160,6 +163,7 @@
     <option name="width" value="1467" />
     <option name="height" value="839" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -341,7 +345,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1058" y="154" width="1467" height="839" extended-state="0" />
+    <frame x="437" y="45" width="1467" height="839" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24982505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
