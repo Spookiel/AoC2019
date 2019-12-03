@@ -111,12 +111,10 @@ def run(data):
     part1 = 0
     lines = [int(i) for i in data.splitlines()]
     for i in lines:
-        a = i//3
-        a -= 2
+        a = i//3-2
         part1 += a
         while i > 0:
-            i = i//3
-            i -= 2
+            i = i//3-2
             if i >= 0:
                 part2 += i
     print("Part1:", part1)
