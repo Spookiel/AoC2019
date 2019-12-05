@@ -7,7 +7,6 @@ test = """2,3,0,3,99"""
 
 
 def solve(data):
-    d = defaultdict(int)
     lines = [int(i) for i in data.split(",")]
     lines[1] = 12
     lines[2] = 2
