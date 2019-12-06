@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3780430a-9624-4f8a-8054-775e98d71adb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AoC2015/Day22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_3/Day3_Visualisation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_4/Day4_Part1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_4/Day4_Part2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_4/Day4_Visualisation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2016/2016Day_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_6/Day6_rewrite.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AoC_2019/Day_2/Day2_Part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/AoC_2019/Day_2/Day2_Part1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AoC_2019/Day_2/Day2_Part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AoC_2019/Day_2/Day2_Part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,38 +21,41 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="29" />
+          <entry key="cys" value="1" />
+          <entry key="py" value="34" />
+          <entry key="txt" value="1" />
           <entry key="vmoptions" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="29" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="py" value="20259" />
+          <entry key="py" value="23852" />
           <entry key="vmoptions" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="20259" />
+          <entry key="Python" value="23852" />
         </counts>
       </usages-collector>
     </session>
@@ -63,39 +63,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AoC_2019/Day_3/Day3_Visualisation.py">
+        <entry file="file://$PROJECT_DIR$/AoC2016/2016Day_10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
+            <state relative-caret-position="393">
+              <caret line="277" selection-start-line="277" selection-end-line="277" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <marker date="1575526651326" expanded="true" signature="2827:2955" ph="..." />
-                <marker date="1575526651326" expanded="true" signature="5267:5318" ph="..." />
-                <marker date="1575526651326" expanded="true" signature="5314:5315" ph="..." />
-                <marker date="1575526651326" expanded="true" signature="5314:5316" ph="..." />
-                <marker date="1575526651326" expanded="true" signature="5314:5317" ph="..." />
+                <element signature="e#10744#10765#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AoC_2019/Day_2/Day2_Part2.py">
+        <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="19" selection-end-column="19" />
+            <state relative-caret-position="280">
+              <caret line="1296" column="88" selection-start-line="1296" selection-start-column="88" selection-end-line="1296" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="1298" column="11" selection-start-line="1298" selection-start-column="11" selection-end-line="1298" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/Day6_rewrite.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="3" selection-end-column="110" />
             </state>
           </provider>
         </entry>
@@ -113,6 +114,7 @@
     <findStrings>
       <find>4</find>
       <find>print</find>
+      <find>99,226</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -142,15 +144,19 @@
         <option value="$PROJECT_DIR$/AoC_2019/Day_4/Day4_Part2.py" />
         <option value="$PROJECT_DIR$/AoC_2019/Day_4/Day4_Visualisation.py" />
         <option value="$PROJECT_DIR$/AoC_2019/Day_3/Day3_Visualisation.py" />
-        <option value="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part2.py" />
         <option value="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part1.py" />
+        <option value="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part2.py" />
+        <option value="$PROJECT_DIR$/AoC2016/2016Day_10.py" />
+        <option value="$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part2.py" />
+        <option value="$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part1.py" />
+        <option value="$PROJECT_DIR$/AoC_2019/Day_6/Day6_rewrite.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="556" />
-    <option name="y" value="133" />
-    <option name="width" value="1461" />
+    <option name="x" value="320" />
+    <option name="y" value="145" />
+    <option name="width" value="1455" />
     <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -159,7 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,24 +181,13 @@
               <item name="AoC2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="AoC2019" type="462c0819:PsiDirectoryNode" />
               <item name="AoC_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Day_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AoC2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AoC2019" type="462c0819:PsiDirectoryNode" />
-              <item name="AoC_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Day_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AoC2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AoC2019" type="462c0819:PsiDirectoryNode" />
-              <item name="AoC_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Day_5" type="462c0819:PsiDirectoryNode" />
+              <item name="Day_6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,8 +205,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day5_Part1">
-    <configuration name="Day22" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Day6_rewrite">
+    <configuration name="2016Day_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AoC2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,74 +214,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC2015" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC2016" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC2015/Day22.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Day3_Visualisation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AoC2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC_2019/Day_3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC_2019/Day_3/Day3_Visualisation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Day4_Part1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AoC2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC_2019/Day_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC_2019/Day_4/Day4_Part1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Day4_Visualisation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AoC2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC_2019/Day_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC_2019/Day_4/Day4_Visualisation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC2016/2016Day_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,20 +248,83 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Day5_Part2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AoC2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC_2019/Day_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day6_Part1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AoC2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC_2019/Day_6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day6_rewrite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AoC2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC_2019/Day_6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC_2019/Day_6/Day6_rewrite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Day22" />
-      <item itemvalue="Python.Day4_Part1" />
-      <item itemvalue="Python.Day3_Visualisation" />
-      <item itemvalue="Python.Day4_Visualisation" />
       <item itemvalue="Python.Day5_Part1" />
+      <item itemvalue="Python.Day5_Part2" />
+      <item itemvalue="Python.2016Day_10" />
+      <item itemvalue="Python.Day6_Part1" />
+      <item itemvalue="Python.Day6_rewrite" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day6_rewrite" />
+        <item itemvalue="Python.Day6_Part1" />
+        <item itemvalue="Python.2016Day_10" />
+        <item itemvalue="Python.Day5_Part2" />
         <item itemvalue="Python.Day5_Part1" />
-        <item itemvalue="Python.Day4_Visualisation" />
-        <item itemvalue="Python.Day3_Visualisation" />
-        <item itemvalue="Python.Day4_Part1" />
-        <item itemvalue="Python.Day22" />
       </list>
     </recent_temporary>
   </component>
@@ -348,15 +342,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="556" y="133" width="1461" height="813" extended-state="0" />
+    <frame x="320" y="145" width="1455" height="813" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25087842" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25194073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34167895" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -478,9 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="20" column="34" selection-end-line="51" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -489,36 +481,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AoC_2019/Day_3/Day3_Visualisation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
+        <state relative-caret-position="612">
           <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_2/Day2_Part2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="119">
+          <caret line="8" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_2/Day2_Part2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="71" column="11" lean-forward="true" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="11" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1575526651326" expanded="true" signature="2827:2955" ph="..." />
-            <marker date="1575526651326" expanded="true" signature="5267:5318" ph="..." />
-            <marker date="1575526651326" expanded="true" signature="5314:5315" ph="..." />
-            <marker date="1575526651326" expanded="true" signature="5314:5316" ph="..." />
-            <marker date="1575526651326" expanded="true" signature="5314:5317" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2016/2016Day_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="277" selection-start-line="277" selection-end-line="277" />
+          <folding>
+            <element signature="e#10744#10765#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1683">
+          <caret selection-end-line="2550" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/out.cys">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="1296" column="88" selection-start-line="1296" selection-start-column="88" selection-end-line="1296" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="1298" column="11" selection-start-line="1298" selection-start-column="11" selection-end-line="1298" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/Day6_rewrite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="110" />
         </state>
       </provider>
     </entry>
