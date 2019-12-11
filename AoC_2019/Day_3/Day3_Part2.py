@@ -75,5 +75,7 @@ def solve(data):
 
 
 
-
+import time
+start =time.time()
 solve(data)
+print(time.time()-start)

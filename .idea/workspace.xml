@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3780430a-9624-4f8a-8054-775e98d71adb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AoC2016/2016Day_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_6/Day6_rewrite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2015/Day11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC2016/Day1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_10/Day10_Part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_11/Day11_Part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_7/Day7_Oscar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_7/Day7_Part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_8/Day8_Part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AoC_2019/Day_9/Day9_Part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeForces/Attractive_Flowers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USACO/Greedy/SkiCourse/skidesign.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AoC_2019/Day_1/Day1_Part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AoC_2019/Day_1/Day1_Part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AoC_2019/Day_3/Day3_Part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AoC_2019/Day_3/Day3_Part2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,40 +28,47 @@
         <counts>
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="4" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cys" value="1" />
-          <entry key="py" value="34" />
-          <entry key="txt" value="1" />
+          <entry key="in" value="1" />
+          <entry key="out" value="1" />
+          <entry key="py" value="60" />
+          <entry key="txt" value="2" />
           <entry key="vmoptions" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="34" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="py" value="23852" />
+          <entry key="in" value="38" />
+          <entry key="py" value="36328" />
           <entry key="vmoptions" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="23852" />
+          <entry key="PLAIN_TEXT" value="56" />
+          <entry key="Python" value="36328" />
         </counts>
       </usages-collector>
     </session>
@@ -63,40 +76,96 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AoC2016/2016Day_10.py">
+        <entry file="file://$PROJECT_DIR$/AoC_2019/Day_8/Day8_Part1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="277" selection-start-line="277" selection-end-line="277" />
+            <state relative-caret-position="153">
+              <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
               <folding>
-                <element signature="e#10744#10765#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
+                <marker date="1575789757308" expanded="true" signature="15148:15826" ph="..." />
+                <marker date="1575789757308" expanded="true" signature="15494:15495" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part1.py">
+        <entry file="file://$PROJECT_DIR$/AoC_2019/Day_9/Day9_Part1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="1296" column="88" selection-start-line="1296" selection-start-column="88" selection-end-line="1296" selection-end-column="88" />
+            <state relative-caret-position="568">
+              <caret line="63" column="31" selection-end-line="75" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part2.py">
+        <entry file="file://$PROJECT_DIR$/AoC_2019/Day_10/Day10_Part1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="1298" column="11" selection-start-line="1298" selection-start-column="11" selection-end-line="1298" selection-end-column="11" />
+            <state relative-caret-position="755">
+              <caret line="102" selection-start-line="102" selection-end-line="102" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <marker date="1575959311966" expanded="true" signature="1859:1862" ph="..." />
+                <marker date="1575959311966" expanded="true" signature="1859:1864" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AoC_2019/Day_11/Day11_Part1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1427">
+              <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
+              <folding>
+                <marker date="1576043307684" expanded="true" signature="0:2988" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/Day6_rewrite.py">
+        <entry file="file://$PROJECT_DIR$/AoC2016/Day1.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AoC_2019/Day_11/input.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="3" selection-end-column="110" />
+              <caret column="2105" selection-start-column="2105" selection-end-column="2105" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/USACO/Greedy/SkiCourse/skidesign.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/USACO/Greedy/SkiCourse/skidesign.out">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/USACO/Greedy/SkiCourse/skidesign.in">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AoC_2019/Day_3/Day3_Part1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="34" selection-end-line="51" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -113,9 +182,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>4</find>
-      <find>print</find>
       <find>99,226</find>
+      <find>print</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -134,8 +206,6 @@
         <option value="$PROJECT_DIR$/AoC2016/2016Day11.py" />
         <option value="$PROJECT_DIR$/AoC_2019/Day_3/Day3_Rewrite.py" />
         <option value="$PROJECT_DIR$/AoC_2019/Day_3/Day3_Part1.py" />
-        <option value="$PROJECT_DIR$/AoC_2019/Day_1/Day1_Part2.py" />
-        <option value="$PROJECT_DIR$/AoC_2019/Day_3/Day3_Part2.py" />
         <option value="$PROJECT_DIR$/AoC2015/Day22.py" />
         <option value="$PROJECT_DIR$/AoC_2019/Day_2/Day2_Part1.py" />
         <option value="$PROJECT_DIR$/AoC_2019/Day_2/Day2_Part2.py" />
@@ -150,13 +220,28 @@
         <option value="$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part2.py" />
         <option value="$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part1.py" />
         <option value="$PROJECT_DIR$/AoC_2019/Day_6/Day6_rewrite.py" />
+        <option value="$PROJECT_DIR$/AoC_2019/Day_7/Day7_Oscar.py" />
+        <option value="$PROJECT_DIR$/AoC_2019/Day_3/Day3_Part2.py" />
+        <option value="$PROJECT_DIR$/AoC_2019/Day_1/Day1_Part2.py" />
+        <option value="$PROJECT_DIR$/AoC_2019/Day_7/Day7_Part1.py" />
+        <option value="$PROJECT_DIR$/AoC_2019/Day_8/Day8_Part1.py" />
+        <option value="$PROJECT_DIR$/CodeForces/Attractive_Flowers.py" />
+        <option value="$PROJECT_DIR$/USACO/Greedy/SkiCourse/skidesign.in" />
+        <option value="$PROJECT_DIR$/USACO/Greedy/SkiCourse/skidesign.py" />
+        <option value="$PROJECT_DIR$/AoC_2019/Day_9/Day9_Part1.py" />
+        <option value="$PROJECT_DIR$/BIO2020/Q3.py" />
+        <option value="$PROJECT_DIR$/AoC2015/Day11.py" />
+        <option value="$PROJECT_DIR$/AoC_2019/Day_10/Day10_Part1.py" />
+        <option value="$PROJECT_DIR$/AoC_2019/Day_11/input.txt" />
+        <option value="$PROJECT_DIR$/AoC_2019/Day_11/Day11_Part1.py" />
+        <option value="$PROJECT_DIR$/AoC2016/Day1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="320" />
-    <option name="y" value="145" />
-    <option name="width" value="1455" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1454" />
     <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -165,6 +250,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,19 +261,34 @@
             <path>
               <item name="AoC2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="AoC2019" type="462c0819:PsiDirectoryNode" />
+              <item name="AoC2015" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AoC2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AoC2019" type="462c0819:PsiDirectoryNode" />
+              <item name="AoC2016" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AoC2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AoC2019" type="462c0819:PsiDirectoryNode" />
               <item name="AoC_2019" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AoC2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="AoC2019" type="462c0819:PsiDirectoryNode" />
               <item name="AoC_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Day_6" type="462c0819:PsiDirectoryNode" />
+              <item name="Day_9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AoC2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AoC2019" type="462c0819:PsiDirectoryNode" />
+              <item name="AoC_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Day_11" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,8 +306,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day6_rewrite">
-    <configuration name="2016Day_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Day11_Part1">
+    <configuration name="Day10_Part1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AoC2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,11 +315,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC2016" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC_2019/Day_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC2016/2016Day_10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC_2019/Day_10/Day10_Part1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,7 +328,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Day5_Part1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Day11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AoC2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,11 +336,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC_2019/Day_5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC2015" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC2015/Day11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,7 +349,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Day5_Part2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Day11_Part1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AoC2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,11 +357,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC_2019/Day_5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC_2019/Day_11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC_2019/Day_11/Day11_Part1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,7 +370,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Day6_Part1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Day9_Part1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AoC2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,11 +378,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC_2019/Day_6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC_2019/Day_9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC_2019/Day_9/Day9_Part1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +391,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Day6_rewrite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AoC2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,11 +399,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AoC_2019/Day_6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BIO2020" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AoC_2019/Day_6/Day6_rewrite.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIO2020/Q3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,19 +413,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Day5_Part1" />
-      <item itemvalue="Python.Day5_Part2" />
-      <item itemvalue="Python.2016Day_10" />
-      <item itemvalue="Python.Day6_Part1" />
-      <item itemvalue="Python.Day6_rewrite" />
+      <item itemvalue="Python.Day9_Part1" />
+      <item itemvalue="Python.Q3" />
+      <item itemvalue="Python.Day11" />
+      <item itemvalue="Python.Day10_Part1" />
+      <item itemvalue="Python.Day11_Part1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Day6_rewrite" />
-        <item itemvalue="Python.Day6_Part1" />
-        <item itemvalue="Python.2016Day_10" />
-        <item itemvalue="Python.Day5_Part2" />
-        <item itemvalue="Python.Day5_Part1" />
+        <item itemvalue="Python.Day11_Part1" />
+        <item itemvalue="Python.Day10_Part1" />
+        <item itemvalue="Python.Day11" />
+        <item itemvalue="Python.Q3" />
+        <item itemvalue="Python.Day9_Part1" />
       </list>
     </recent_temporary>
   </component>
@@ -342,15 +443,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="320" y="145" width="1455" height="813" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25194073" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18809272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34167895" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2516269" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -368,20 +468,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AoC2018/Day6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC2018/DAy7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34238">
-          <caret line="2014" column="30" selection-start-line="2014" selection-start-column="30" selection-end-line="2014" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AoC2016/2016Day10.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -406,45 +492,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_3/Day3_Rewrite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AoC2015/Day22.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_1/Day1_Part2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_4/Day4_Part1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_4/Day4_Part2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_4/Day4_Visualisation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -469,20 +520,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_3/Day3_Part1.py">
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_2/Day2_Part2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="34" selection-end-line="51" selection-end-column="11" />
+        <state relative-caret-position="204">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_3/Day3_Part2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_3/Day3_Visualisation.py">
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/out.txt" />
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/out.cys" />
+    <entry file="file://$PROJECT_DIR$/AoC2016/2016Day_10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
+        <state relative-caret-position="4658">
+          <caret line="277" selection-start-line="277" selection-end-line="277" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_7/Day7_Oscar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="166" column="81" selection-start-line="166" selection-start-column="81" selection-end-line="166" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="1298" column="11" selection-start-line="1298" selection-start-column="11" selection-end-line="1298" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/Day6_rewrite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="1296" column="88" selection-start-line="1296" selection-start-column="88" selection-end-line="1296" selection-end-column="88" />
         </state>
       </provider>
     </entry>
@@ -493,63 +571,184 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_2/Day2_Part2.py">
+    <entry file="file://$PROJECT_DIR$/AoC2018/DAy7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="461">
+          <caret line="2014" column="30" selection-start-line="2014" selection-start-column="30" selection-end-line="2014" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2018/Day6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_3/Day3_Rewrite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_3/Day3_Visualisation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_1/Day1_Part2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="123" column="9" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_3/Day3_Part2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_4/Day4_Part1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_4/Day4_Part2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_4/Day4_Visualisation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AoC_2019/Day_5/Day5_Part2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="71" column="11" lean-forward="true" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="11" />
+        <state relative-caret-position="1088">
+          <caret line="65" column="2" selection-end-line="71" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_7/Day7_Part1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3230">
+          <caret line="190" column="41" selection-start-line="190" selection-start-column="41" selection-end-line="190" selection-end-column="41" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1575750970824" expanded="true" signature="3554:3592" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AoC2016/2016Day_10.py">
+    <entry file="file://$PROJECT_DIR$/BIO2020/Q3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="277" selection-start-line="277" selection-end-line="277" />
+        <state relative-caret-position="578">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2015/Day11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding>
-            <element signature="e#10744#10765#0" expanded="true" />
+            <element signature="e#22#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/out.txt">
+    <entry file="file://$PROJECT_DIR$/CodeForces/Attractive_Flowers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1683">
-          <caret selection-end-line="2550" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/out.cys">
+    <entry file="file://$PROJECT_DIR$/USACO/Greedy/SkiCourse/skidesign.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USACO/Greedy/SkiCourse/skidesign.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part1.py">
+    <entry file="file://$PROJECT_DIR$/USACO/Greedy/SkiCourse/skidesign.in">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="1296" column="88" selection-start-line="1296" selection-start-column="88" selection-end-line="1296" selection-end-column="88" />
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/Day6_Part2.py">
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_3/Day3_Part1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="1298" column="11" selection-start-line="1298" selection-start-column="11" selection-end-line="1298" selection-end-column="11" />
+        <state relative-caret-position="306">
+          <caret line="20" column="34" selection-end-line="51" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_6/Day6_rewrite.py">
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_10/Day10_Part1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <marker date="1575959311966" expanded="true" signature="1859:1862" ph="..." />
+            <marker date="1575959311966" expanded="true" signature="1859:1864" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_9/Day9_Part1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="63" column="31" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_11/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="3" selection-end-column="110" />
+          <caret column="2105" selection-start-column="2105" selection-end-column="2105" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_8/Day8_Part1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <marker date="1575789757308" expanded="true" signature="15148:15826" ph="..." />
+            <marker date="1575789757308" expanded="true" signature="15494:15495" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC_2019/Day_11/Day11_Part1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1427">
+          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
+          <folding>
+            <marker date="1576043307684" expanded="true" signature="0:2988" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AoC2016/Day1.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

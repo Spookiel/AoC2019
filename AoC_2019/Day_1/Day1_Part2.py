@@ -119,4 +119,7 @@ def run(data):
                 part2 += i
     print("Part1:", part1)
     print("Part2:", part2)
+import time
+start = time.time()
 run(data)
+print(time.time()-start)
